@@ -1,3 +1,3 @@
 # RSA-Encryption
 
-Execute run.py to view enccryption and decryption
+Execute run.py to view encryption and decryption
